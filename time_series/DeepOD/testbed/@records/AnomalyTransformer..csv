@@ -1,0 +1,97 @@
+
+---------------------------------------------------------
+model: AnomalyTransformer, dataset: omi-1, 5runs, 07-17 16.27.06
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  32
+Parameters,	 [k], 		  3
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: AnomalyTransformer, dataset: omi-1, 5runs, 07-17 16.27.24
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  32
+Parameters,	 [k], 		  3
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: AnomalyTransformer, dataset: omi-1, 5runs, 07-17 16.28.15
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  32
+Parameters,	 [k], 		  3
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: AnomalyTransformer, dataset: omi-1, 5runs, 07-17 16.28.50
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  32
+Parameters,	 [k], 		  3
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: AnomalyTransformer, dataset: omi-1, 5runs, 07-17 16.29.45
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  32
+Parameters,	 [k], 		  3
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: AnomalyTransformer, dataset: omi-1, 5runs, 07-17 16.30.22
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  32
+Parameters,	 [k], 		  3
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: AnomalyTransformer, dataset: omi-1, 5runs, 07-17 16.32.46
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  32
+Parameters,	 [k], 		  3
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: AnomalyTransformer, dataset: omi-1, 5runs, 07-17 16.34.10
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  32
+Parameters,	 [k], 		  3
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.9935, 0.0023, 0.9358, 0.0231, 0.9257, 0.0208, 0.9200, 0.0384, 0.9333, 0.0321, 96.1, AnomalyTransformer, {'lr': 0.0001, 'epochs': 10, 'batch_size': 32, 'k': 3, 'seq_len': 30, 'stride': 10} 

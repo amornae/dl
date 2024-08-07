@@ -1,0 +1,502 @@
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.23.23
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.23.43
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.27.48
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.29.38
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.30.27
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.32.10
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.32.37
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.36.08
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.47.58
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.48.49
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.50.23
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.54.13
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.55.08
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.56.43
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 14.57.08
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.03.37
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.04.12
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7721, 0.0445, 0.2686, 0.0419, 0.4739, 0.0431, 0.3241, 0.0406, 0.8948, 0.0187, 3.2, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.11.22
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.12.39
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.13.08
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.14.45
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7721, 0.0445, 0.2686, 0.0419, 0.4739, 0.0431, 0.3241, 0.0406, 0.8948, 0.0187, 3.3, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.17.09
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7721, 0.0445, 0.2686, 0.0419, 0.4739, 0.0431, 0.3241, 0.0406, 0.8948, 0.0187, 3.3, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.17.43
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7721, 0.0445, 0.2686, 0.0419, 0.4739, 0.0431, 0.3241, 0.0406, 0.8948, 0.0187, 3.2, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.18.57
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.19.38
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.22.31
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.23.03
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7721, 0.0445, 0.2686, 0.0419, 0.4739, 0.0431, 0.3241, 0.0406, 0.8948, 0.0187, 3.2, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.24.53
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.25.06
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 15.25.27
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7721, 0.0445, 0.2686, 0.0419, 0.4739, 0.0431, 0.3241, 0.0406, 0.8948, 0.0187, 3.3, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 16.24.49
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7721, 0.0445, 0.2686, 0.0419, 0.4739, 0.0431, 0.3241, 0.0406, 0.8948, 0.0187, 3.1, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-17 16.32.21
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7721, 0.0445, 0.2686, 0.0419, 0.4739, 0.0431, 0.3241, 0.0406, 0.8948, 0.0187, 3.2, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 09.54.47
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 09.55.00
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 09.55.38
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 09.57.09
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 09.58.37
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 10.28.56
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 11.14.07
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 11.15.24
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7694, 0.0506, 0.2697, 0.0476, 0.4697, 0.0477, 0.3194, 0.0437, 0.9011, 0.0109, 1.2, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: USAD, dataset: omi-1, 5runs, 07-20 11.15.48
+Parameters,	 [hidden_dims], 		  100
+Parameters,	 [lr], 		  1e-3
+Parameters,	 [epochs], 		  10
+Parameters,	 [batch_size], 		  128
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+omi-1, 0.7694, 0.0506, 0.2697, 0.0476, 0.4697, 0.0477, 0.3194, 0.0437, 0.9011, 0.0109, 1.4, USAD, {'hidden_dims': 100, 'lr': '1e-3', 'epochs': 10, 'batch_size': 128, 'seq_len': 30, 'stride': 10} 
